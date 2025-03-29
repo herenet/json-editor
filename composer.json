@@ -3,7 +3,7 @@
     "description": "JSON Editor for Laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/json-editor",
+    "homepage": "https://github.com/herenet/json-editor",
     "license": "MIT",
     "authors": [
         {
